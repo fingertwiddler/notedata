@@ -1,0 +1,7 @@
+{
+  "require": {
+    "app": {
+      "url": "https://github.com/fingertwiddler/note.git"
+    }
+  }
+}
